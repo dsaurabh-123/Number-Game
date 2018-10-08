@@ -5,3 +5,17 @@ body{
 .inp_txt{
 	background: red;
 }
+.create_box{
+	background: #7e6464;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+.btn_dec{
+	padding: 20px;
+}
+
+.modal_modified{
+	width:800px !important;
+}
