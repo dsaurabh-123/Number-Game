@@ -16,3 +16,14 @@ function add(val){
 	console.log(tot);
 	console.log(flag);
 }
+
+
+
+
+function saveplayer(){
+	var p1= document.getElementById('player1_name').value;
+	var p2= document.getElementById('player2_name').value;
+
+	document.getElementById("play1").innerHTML=p1;
+		document.getElementById("play2").innerHTML=p2;
+}
